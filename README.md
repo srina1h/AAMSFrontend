@@ -4,14 +4,14 @@
 
 
 <p align='center'>
-<a href="https://github.com/srinathsrinivasan1/AAMSFrontend/issues">
-    <img src="https://img.shields.io/github/issues/srinathsrinivasan1/AAMSFrontend?style=for-the-badge" alt="GitHub Issues" >
+<a href="https://github.com/srina1h/AAMSFrontend/issues">
+    <img src="https://img.shields.io/github/issues/srina1h/AAMSFrontend?style=for-the-badge" alt="GitHub Issues" >
 </a>
-<a href="https://github.com/srinathsrinivasan1/AAMSFrontend/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/srinathsrinivasan1/AAMSFrontend?style=for-the-badge" alt="License" >
+<a href="https://github.com/srina1h/AAMSFrontend/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/srina1h/AAMSFrontend?style=for-the-badge" alt="License" >
 </a>
-<a href="https://github.com/srinathsrinivasan1/AAMSFrontend/stargazers">
-    <img src="https://img.shields.io/github/stars/srinathsrinivasan1/AAMSFrontend?style=for-the-badge" alt="GitHub Stars" >
+<a href="https://github.com/srina1h/AAMSFrontend/stargazers">
+    <img src="https://img.shields.io/github/stars/srina1h/AAMSFrontend?style=for-the-badge" alt="GitHub Stars" >
 </a>
 </p>
 
@@ -25,12 +25,12 @@
 </tr>
 </table>
 
-<h3 align="center"><a href="https://github.com/srinathsrinivasan1/AAMSFrontend/blob/master/Documentation/SRS_document.pdf">Documentation for comprehensive description</a></h3>
+<h3 align="center"><a href="https://github.com/srina1h/AAMSFrontend/blob/master/Documentation/SRS_document.pdf">Documentation for comprehensive description</a></h3>
 
 ### Done as a part of the the UCS-1617-Mini-project course at SSN College of Engineering
 
 <h3 align='center'>
-<a href="https://github.com/srinathsrinivasan1/AAMSBackend">
+<a href="https://github.com/srina1h/AAMSBackend">
     Please clone the server backend repository from here before proceeding with the instructions
 </a>
 </h3>
@@ -38,7 +38,7 @@
 ## How to run on local system
 #### Clone the repository (or download zip from release)
 ```bash
-git clone https://github.com/srinathsrinivasan1/AAMSFrontend
+git clone https://github.com/srina1h/AAMSFrontend
 ```
 #### move to folder and Install dependencies 
 ```bash
@@ -53,7 +53,7 @@ npm start
 ## How to run the server backend on local system
 #### Clone backend repository
 ```bash
-git clone https://github.com/srinathsrinivasan1/AAMSBackend
+git clone https://github.com/srina1h/AAMSBackend
 ```
 #### move to folder and install dependencies
 ```bash
